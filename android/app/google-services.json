@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17049364024",
+    "project_id": "e-broker-app",
+    "storage_bucket": "e-broker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17049364024:android:d67765cfb089876d2b68cd",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwH-azb3jzZ8qlwF9_T9_I_WMEmBjrOq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
